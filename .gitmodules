@@ -1,0 +1,6 @@
+[submodule "jitsi-meet"]
+	path = jitsi-meet
+	url = https://github.com/Itaborala/jitsi-meet.git
+[submodule "lib-jitsi-meet"]
+	path = lib-jitsi-meet
+	url = https://github.com/Itaborala/lib-jitsi-meet.git
